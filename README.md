@@ -2,7 +2,7 @@
 
 **Overview**
 
-**SickBI** is a comprehensive online platform designed to provide a wealth of medical resources. Launched between August 2021 and February 2022, SickBI aims to facilitate easy access to crucial medical information and resources for healthcare professionals, researchers, and patients.
+**SickBI** is a comprehensive online platform designed to provide a wealth of medical resources. Coded between August 2021 and February 2022, SickBI aims to facilitate easy access to crucial medical information and resources for healthcare professionals, researchers, and patients.
 
 **Features**
 
@@ -10,29 +10,6 @@
 2) **User-Friendly Interface**: Simplified navigation and access to medical resources.
 3) **Performance Optimizations**: Enhanced load times and overall responsiveness of the platform.
 4) **Modern Code Styles**: Utilized contemporary coding practices for maintainability and scalability.
-
-**Installation and Setup**
-
-1) **Clone the Repository**:
-```bash
-   git clone https://github.com/username/SickBI.git
-   cd SickBI
-```
-
-2) **Install Dependencies:**
-```bash
-   npm install
-```
-
-3) **Run the Development Server:**
-```bash
-   npm run dev
-```
-
-
-**Usage**
-
-Once the development server is running, you can access the SickBI platform via your web browser at http://localhost:3000. The platform offers a seamless browsing experience, allowing users to search and access various medical resources with ease.
 
 
 **Contributing**
